@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/portfolio-app.git
+   git clone https://github.com/gitbiruk2010/Personal-Portfolio-App-using-React-Native-and-Expo-Router
 2. Navigate to the project
 3. npx expo start
 ## Usage
